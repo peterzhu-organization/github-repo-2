@@ -1,4 +1,4 @@
-## Sample App workflow
+## Sample App workflow test
 name: Sample App test
 on:
   push:
