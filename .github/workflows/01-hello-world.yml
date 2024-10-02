@@ -1,5 +1,5 @@
 ## Sample App workflow test 8
-name: Sample App test
+name: Sample
 on:
   push:
   pull_request:
